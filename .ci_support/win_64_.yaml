@@ -9,7 +9,7 @@ channel_targets:
 cxx_compiler:
 - vs2022
 idyntree:
-- '14'
+- '15'
 libmatio_cpp:
 - 0.3.0
 libosqp:
